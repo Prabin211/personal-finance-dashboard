@@ -1,0 +1,64 @@
+body {
+margin: 0;
+padding: 0;
+background: #f5f9f4;
+font-family: "Segoe UI", sans-serif;
+color: #263238;
+}
+
+* {
+  box-sizing: border-box;
+  }
+
+h1,
+h2,
+h3,
+h4 {
+margin-top: 0;
+}
+
+input,
+select {
+outline: none;
+transition: all 0.3s ease;
+}
+
+input:focus,
+select:focus {
+border-color: #4caf50;
+box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
+}
+
+button {
+transition: all 0.3s ease;
+}
+
+button:hover {
+transform: translateY(-2px);
+}
+
+table {
+border-spacing: 0;
+}
+
+tr:hover {
+background-color: #eef8ee !important;
+}
+
+::-webkit-scrollbar {
+width: 10px;
+height: 10px;
+}
+
+::-webkit-scrollbar-track {
+background: #edf4ed;
+}
+
+::-webkit-scrollbar-thumb {
+background: #81c784;
+border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: #4caf50;
+}
