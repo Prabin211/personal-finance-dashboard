@@ -75,13 +75,13 @@ Backend API: https://personal-finance-dashboard-production-e41c.up.railway.app
 
 ## 📸 Application Screenshots
 
-### Dashboard Overview
-
-![Dashboard](screenshots/dashboard.png)
-
 ### Expense Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/category-chart.png)
+
+### MOnthly Trend
+
+![Analytics](screenshots/monthly-trend.png)
 
 ### Add Expense
 
