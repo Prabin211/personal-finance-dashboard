@@ -89,7 +89,7 @@ Backend API: https://personal-finance-dashboard-production-e41c.up.railway.app
 
 ### Add Expense
 
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](screenshots/import-expense.png)
 
 ### Expense Table
 
